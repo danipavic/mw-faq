@@ -4,6 +4,8 @@ import "./Components/faqItems";
 import FaqItems from "./Components/faqItems";
 import DisplayAnswer from "./Components/displayAnswer";
 
+/* First PR
+ */
 export default class App extends Component {
   state = {
     question: "",
